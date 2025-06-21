@@ -8,11 +8,15 @@
 
   obrigada por passar por aqui! 🍜
   
-```  <-- ABERTURA DO BLOCO (três acentos graves)
+<div align="center">
 
-    _._     _,-'""`-._
-   (,-.`._,'(       |\`-/|
-       `-.-' \ )-`( , o o)
-             `-    \`_`"'-
+\`\`\`
+    _._     _,-'""\`-._
+   (,-.\`.\_,'(       |\`-/\`|
+       \`-.-' \\ )-`( , o o)
+             \`-    \\\`\_\`"'-
+\`\`\`
 
-```  <-- FECHAMENTO DO BLOCO (só aqui no final)
+</div>
+
+
